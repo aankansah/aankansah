@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Augustine</h1>
 <h3 align="center">A passionate fullstack engineer from Ghana</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=aankansah&theme=discord" alt="aankansah" /> </p>
-
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=aankansah&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=aankansah&theme=discord" alt="aankansah" /></a> </p>
+<p align="left"> <a href="https://github-trophies.vercel.app/?username=aankansah"><img src="https://github-trophies.vercel.app/?username=aankansah" alt="aankansah" /></a> </p>
 
 - 🔭 I’m currently working on [Scratchcode LMS](https://scratchcode.org)
 
