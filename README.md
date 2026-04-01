@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **DevOps-related projects**
 
-- 👨‍💻 All of my projects are available at [https://www.augustinenkansah.info](https://www.augustinenkansah.info)
+- 👨‍💻 All of my projects are available at [https://www.augustinenkansah.com](https://www.augustinenkansah.com)
 
 - 💬 Ask me about **React, Node.js, Express, or how I manage to debug without crying (most days)**
 
-- 📫 How to reach me **[Contact me here](https://www.augustinenkansah.info/#:~:text=TO%20DO%20BUSINESS%3F-,LET%27S%20TALK,-Please%20leave%20a)**
+- 📫 How to reach me **[Contact me here](https://www.augustinenkansah.com/#:~:text=TO%20DO%20BUSINESS%3F-,LET%27S%20TALK,-Please%20leave%20a)**
 
-- 📄 Know about my experiences [https://www.augustinenkansah.info/Resume_Augustine%20Amoh%20Nkansah.pdf](https://www.augustinenkansah.info/Resume_Augustine%20Amoh%20Nkansah.pdf)
+- 📄 Know about my experiences [https://www.augustinenkansah.com/Resume_Augustine%20Amoh%20Nkansah.pdf](https://www.augustinenkansah.com/Resume_Augustine%20Amoh%20Nkansah.pdf)
 
 - ⚡ Fun fact **I'm getting into DevOps so I could finally win arguments... with servers😂.**
 
